@@ -1,0 +1,10 @@
+**
+    Most If's can be replaced by polymorphism
+
+    Never return null, instead return a null object eg. empty list
+
+    Dont return error codes, throw exceptions
+
+    Switch cases can always be replced by polymorphism
+
+    Repeated If statments is indication for polymorphism
